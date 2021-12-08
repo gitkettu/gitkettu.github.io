@@ -1,0 +1,19 @@
+body {
+color:black;
+background:white;
+
+	}
+
+	h1{
+	color:green;
+
+	}
+	h2{
+color:white
+	font-size:large;
+	}
+
+	#page-wrap {
+	     width: 1200px;
+	     margin: 0 auto;
+	}
